@@ -1,0 +1,23 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local media and other large generated artifacts
+*.mp4
+*.gzip
+*.pl3container
+
+# Logs and temporary files
+*.log
+*.tmp
